@@ -50,3 +50,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+efm32_projects/template_efm32pg/iar/Debug/
