@@ -3,6 +3,10 @@
 #include "em_chip.h"
 
 int main() {
+        
+        /* Chip errata */
+        CHIP_Init();
+        
         while(1) {
                 
         }
