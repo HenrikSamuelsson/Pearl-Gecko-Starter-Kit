@@ -2,7 +2,9 @@
 
 <Workspace>
   <ConfigDictionary>
-    <CurrentConfigs/>
+    <CurrentConfigs>
+      <Project>template_efm32pg/Debug</Project>
+    </CurrentConfigs>
   </ConfigDictionary>
   <Desktop>
     <Static>
@@ -50,7 +52,9 @@
             <TabName>Workspace</TabName>
             <Factory>Workspace</Factory>
             <Session>
-              <NodeDict/>
+              <NodeDict>
+                <ExpandedNode>template_efm32pg</ExpandedNode>
+              </NodeDict>
             </Session>
           </Tab>
         </Tabs>
