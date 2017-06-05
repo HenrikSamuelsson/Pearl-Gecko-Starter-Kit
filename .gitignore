@@ -52,3 +52,4 @@ Mkfile.old
 dkms.conf
 efm32_projects/template_efm32pg/iar/Debug/
 efm32_projects/gpio_example/iar/Debug/
+efm32_projects/timer_with_interrupt_emlib/iar/Debug/

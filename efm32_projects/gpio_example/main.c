@@ -5,7 +5,7 @@
  *      Henrik Samuelsson
  *
  * @brief 
- *      Lets a user blink leds on a Pearl Gecko devolopment kit.
+ *      Lets a user control leds on a Pearl Gecko devolopment kit.
  *      
  * @details 
  *      Project is based on code from the following web page
